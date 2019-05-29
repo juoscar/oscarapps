@@ -1,66 +1,65 @@
 {
-  "data": {
-    "apps": [
-      {
-        "id": "appstore",
-        "card": {
-          "color": "9c99a0",
-          "title": "Apps",
-          "iconUrl": "https://cdn3.iconfinder.com/data/icons/picons-social/57/68-appstore-128.png"
-        },
-        "app_data": {
-          "url": "oscar://app-open?type=appstore",
-          "default":true
+    "payload": {
+        "data": {
+            "apps": [
+                {
+                    "id": "appstore",
+                    "card": {
+                        "color": "9c99a0",
+                        "title": "Apps",
+                        "iconUrl": "https://cdn3.iconfinder.com/data/icons/picons-social/57/68-appstore-128.png"
+                    },
+                    "app_data": {
+                        "url": "oscar://app-open?type=appstore",
+                        "default": true
+                    }
+                },
+                {
+                    "id": "reminders",
+                    "card": {
+                        "color": "ff2d55",
+                        "title": "Reminders",
+                        "iconUrl": "https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Reminders-128.png"
+                    },
+                    "app_data": {
+                        "url": "oscar://app-open?type=reminders"
+                    }
+                },
+                {
+                    "id": "weather",
+                    "card": {
+                        "color": "fb5014",
+                        "title": "Weather",
+                        "iconUrl": "https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/weather-clear-128.png"
+                    },
+                    "app_data": {
+                        "url": "oscar://app-open?type=weather",
+                        "default": true
+                    }
+                },
+                {
+                    "id": "messages",
+                    "card": {
+                        "color": "007aff",
+                        "title": "Messages",
+                        "iconUrl": "https://cdn4.iconfinder.com/data/icons/keynote-and-powerpoint-icons/256/Messages-128.png"
+                    },
+                    "app_data": {
+                        "url": "oscar://app-open?type=chat"
+                    }
+                },
+                {
+                    "id": "solitaire",
+                    "card": {
+                        "color": "367600",
+                        "title": "Solitaire",
+                        "iconUrl": "https://cdn0.iconfinder.com/data/icons/card-games/48/Paul-05-128.png"
+                    },
+                    "app_data": {
+                        "url": "oscar://app-open?type=external&package=com.example.app&url_scheme=aso593715088&gplay=abcd&appstore=https://itunes.apple.com/app/solitaire-patience/id593715088"
+                    }
+                }
+            ]
         }
-      },
-      {
-        "id": "reminders",
-        "card": {
-          "color": "ff2d55",
-          "title": "Reminders",
-          "iconUrl": "https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Reminders-128.png"
-        },
-        "app_data": {
-          "url": "oscar://app-open?type=reminders"
-        }
-      },
-      {
-        "id": "weather",
-        "card": {
-          "color": "fb5014",
-          "title": "Weather",
-          "iconUrl": "https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/weather-clear-128.png"
-        },
-        "app_data": {
-          "url": "oscar://app-open?type=weather",
-          "default":true
-        }
-      },
-      {
-        "id": "messages",
-        "card": {
-          "color": "007aff",
-          "title": "Messages",
-          "iconUrl": "https://cdn4.iconfinder.com/data/icons/keynote-and-powerpoint-icons/256/Messages-128.png"
-        },
-        "app_data": {
-          "url": "oscar://app-open?type=chat"
-        }
-      },
-      {
-        "id": "solitaire",
-        "card": {
-          "color": "367600",
-          "title": "Solitaire",
-          "iconUrl": "https://cdn0.iconfinder.com/data/icons/card-games/48/Paul-05-128.png"
-        },
-        "app_data": {
-          "ios_url": "aso593715088://",
-          "ios_appstore_url":"https://itunes.apple.com/app/solitaire-patience/id593715088",
-          "android_bundle": "",
-          "android_play_url":""
-        }
-      }
-    ]
-  }
+    }
 }
