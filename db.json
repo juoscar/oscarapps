@@ -5,7 +5,7 @@
                 {
                     "id": "appstore",
                     "card": {
-                        "color": "9c99a0",
+                        "color": "#9c99a0",
                         "title": "Apps",
                         "iconUrl": "https://cdn3.iconfinder.com/data/icons/picons-social/57/68-appstore-128.png"
                     },
@@ -17,7 +17,7 @@
                 {
                     "id": "reminders",
                     "card": {
-                        "color": "ff2d55",
+                        "color": "#ff2d55",
                         "title": "Reminders",
                         "iconUrl": "https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Reminders-128.png"
                     },
@@ -28,7 +28,7 @@
                 {
                     "id": "weather",
                     "card": {
-                        "color": "fb5014",
+                        "color": "#fb5014",
                         "title": "Weather",
                         "iconUrl": "https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/weather-clear-128.png"
                     },
@@ -40,7 +40,7 @@
                 {
                     "id": "messages",
                     "card": {
-                        "color": "007aff",
+                        "color": "#007aff",
                         "title": "Messages",
                         "iconUrl": "https://cdn4.iconfinder.com/data/icons/keynote-and-powerpoint-icons/256/Messages-128.png"
                     },
@@ -51,7 +51,7 @@
                 {
                     "id": "solitaire",
                     "card": {
-                        "color": "367600",
+                        "color": "#367600",
                         "title": "Solitaire",
                         "iconUrl": "https://cdn4.iconfinder.com/data/icons/casino-games-1/512/Black_Jack-128.png"
                     },
