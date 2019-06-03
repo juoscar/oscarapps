@@ -58,6 +58,17 @@
                     "app_data": {
                         "url": "oscar://app-open?type=external&package=org.intoorbit.solitaire&url_scheme=aso593715088&appstore=https://itunes.apple.com/app/solitaire-patience/id593715088"
                     }
+                },
+                {
+                    "id": "translator",
+                    "card": {
+                        "color": "#577EFB",
+                        "title": "Translator",
+                        "iconUrl": "https://cdn3.iconfinder.com/data/icons/text-editor-23/16/09_translate-language-course-translator-17-128.png"
+                    },
+                    "app_data": {
+                        "url": "oscar://app-open?type=browser&url=https://translate.google.com&bookmark_enabled=false&navigation_enabled=false&embedded=true&fixed_domain=true"
+                    }
                 }
             ]
         }
