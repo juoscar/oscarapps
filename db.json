@@ -67,7 +67,7 @@
                         "iconUrl": "https://cdn3.iconfinder.com/data/icons/text-editor-23/16/09_translate-language-course-translator-17-128.png"
                     },
                     "app_data": {
-                        "url": "oscar://app-open?type=browser&url=https://translate.google.com&bookmark_enabled=0&navigation_enabled=0&embedded=1&fixed_domain=1"
+                        "url": "oscar://app-open?type=browser&url=https://translate.google.com&bookmark_enabled=0&navigation_enabled=0&fixed_domain=1"
                     }
                 }
             ]
