@@ -12,7 +12,7 @@
                     "app_data": {
                         "url": "oscar://app-open?type=appstore",
                         "default": true,
-                        "moving_disabled": true,
+                        "reordering_disabled": true,
                         "disabled_offline": true
                     }
                 },
